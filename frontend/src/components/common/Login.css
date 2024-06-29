@@ -1,0 +1,57 @@
+/* login.css */
+/* body {
+    background-image: url('C:\Users\shrey\OneDrive\Desktop\blog-app-master\frontend\src\Images\bg.jpg');
+    background-size: cover; /* Ensure the image covers the entire background */
+    /* background-position: center; Center the image*? */
+    /* background-repeat: no-repeat; Do not repeat the image */
+    /* height: 100vh; Ensure the body takes full height of the viewport */
+    /* margin: 0; Remove default margin */
+    /* padding: 0; */ 
+  /* }
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  } */
+/* .login-container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    background-image: url('C:\Users\shrey\OneDrive\Desktop\blog-app-master\frontend\src\Images\login.jpg'); /* Replace with your image path */
+    /* background-size: cover;
+    background-position: center; */
+
+/* .login-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+} */
+.login-container {
+  background-image: url('../../Images/cooking.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for the form */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
